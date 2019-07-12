@@ -13,5 +13,5 @@
 
 # How to run ?
 <pre>
-Just Type ./run_linux.sh
+Just Type node main.js
 </pre>
