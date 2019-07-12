@@ -10,3 +10,8 @@
 3.> cd F-ToolsV2
 4.> sh install.sh
 </pre>
+
+# How to run ?
+<pre>
+Just Type ./run_linux.sh
+</pre>
