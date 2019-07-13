@@ -15,3 +15,8 @@
 <pre>
 Just Type node main.js
 </pre>
+
+# Pasword ?
+<pre>
+Same as before version
+</pre>
