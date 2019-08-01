@@ -1,6 +1,6 @@
 # F-ToolsV2
 
-[![Issue](https://img.shields.io/github/issues/FajarTheGGman/F-ToolsV2)]
+![Issue](https://img.shields.io/github/issues/FajarTheGGman/F-ToolsV2)
 
 #Package Installer, Second Version From F-Tools V1
 
